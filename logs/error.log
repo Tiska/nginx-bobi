@@ -768,3 +768,12 @@ ice_workspace\jordan-fm-eventstudio\public\app\src\main/index.html" failed (123:
 2015/01/04 15:34:44 [emerg] 6284#6980: "server" directive is not allowed here in C:\Users\Tiska\Downloads\nginx-1.7.8\nginx-1.7.8/conf/nginx.conf:1
 2015/01/04 15:34:56 [emerg] 2844#3964: "server" directive is not allowed here in C:\Users\Tiska\Downloads\nginx-1.7.8\nginx-1.7.8/conf/nginx.conf:1
 2015/01/04 15:34:58 [emerg] 1684#5808: "server" directive is not allowed here in C:\Users\Tiska\Downloads\nginx-1.7.8\nginx-1.7.8/conf/nginx.conf:1
+2015/02/15 15:11:14 [emerg] 920#3800: CreateDirectory() "X:\workspace\nginx-bobi/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2015/02/15 15:12:40 [emerg] 4124#6400: CreateDirectory() "X:\workspace\nginx-bobi/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2015/02/15 15:18:43 [emerg] 7040#5460: CreateDirectory() "X:\workspace\nginx-bobi/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2015/02/15 15:20:57 [emerg] 3992#5896: CreateDirectory() "X:\workspace\nginx-bobi/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2015/03/15 23:39:58 [emerg] 1328#4352: CreateDirectory() "X:\workspace\nginx-bobi/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2015/03/15 23:41:54 [notice] 6732#6204: signal process started
+2015/03/15 23:41:54 [error] 6732#6204: OpenEvent("Global\ngx_stop_3252") failed (2: The system cannot find the file specified)
+2015/03/15 23:42:20 [notice] 6656#5964: signal process started
+2015/03/15 23:42:20 [error] 6656#5964: OpenEvent("Global\ngx_reload_3252") failed (2: The system cannot find the file specified)
